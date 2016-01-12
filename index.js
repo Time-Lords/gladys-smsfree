@@ -1,5 +1,5 @@
 
-var SmsFreeInstall = require('./lib/smsFreeInstall');
+var SmsFreeInstall = require('./lib/smsfreeInstall');
 
 module.exports = function (sails) {
 
