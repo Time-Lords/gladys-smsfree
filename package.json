@@ -1,0 +1,11 @@
+{
+  "name": "Gladys-SmsFree",
+  "version": "0.0.1",
+  "description": "Send SMS with Free mobile from Gladys",
+  "keywords": [],
+  "dependencies": {
+    "sails-util-mvcsloader": "~0.3.0"
+  },
+  "author": "TimeLord",
+  "license": "Creative Commons 3.0 France"
+}
